@@ -3,6 +3,7 @@ boto3==1.39.3
 botocore==1.39.3
 certifi==2025.6.15
 charset-normalizer==3.4.2
+dotenv==0.9.9
 h11==0.16.0
 idna==3.10
 jmespath==1.0.1
